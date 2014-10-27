@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <key>@PLUGIN_KEY@</key>
+    <version>@PLUGIN_VERSION@</version>
+    <label>@PLUGIN_KEY@</label>
+    <description>Generate HTML charts for data stored in properties.</description>
+    <author>Tanay Nagjee</author>
+    <authorUrl>mailto:tanay@electric-cloud.com</authorUrl>
+    <commander-version min="5.0"/>
+    <category>Reporting</category>
+</plugin>
