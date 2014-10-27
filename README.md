@@ -13,7 +13,7 @@ Here is a snapshot of the type of property sheet on which this procedure would o
 <img src="https://raw.githubusercontent.com/electriccommunity/ec-chart-properties/master/out/screenshots/line_chart_property_sheet_data.png" alt="Parameters" style="width: 400px;"/>
 
 When the step runs, an HTML report will be generated in the workspace.  If it contains the word report and ends with an extension htm(l), a link will appear on the job details page.  Here's the chart generated with the above data:
-<img src="https://raw.githubusercontent.com/electriccommunity/ec-chart-properties/master/out/screenshots/line_chart_property_sheet_graph.png" alt="Parameters" style="width: 400px;"/>
+<img src="https://raw.githubusercontent.com/electriccommunity/ec-chart-properties/master/out/screenshots/line_chart_property_sheet_graph.png" alt="Parameters" style="width: 400px;" width="400px"/>
 
 SOURCES:
 
