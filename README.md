@@ -10,10 +10,10 @@ Here are the parameters for the "LineChartPropertySheet" step:
 <br /><img src="https://raw.githubusercontent.com/electriccommunity/ec-chart-properties/master/out/screenshots/line_chart_property_sheet_parameters.png" alt="Parameters" width="400px"/>
 
 Here is a snapshot of the type of property sheet on which this procedure would operate:
-<br /><img src="https://raw.githubusercontent.com/electriccommunity/ec-chart-properties/master/out/screenshots/line_chart_property_sheet_data.png" alt="Data" width="400px"/>
+<br /><br /><img src="https://raw.githubusercontent.com/electriccommunity/ec-chart-properties/master/out/screenshots/line_chart_property_sheet_data.png" alt="Data" width="400px"/>
 
 When the step runs, an HTML report will be generated in the workspace.  If it contains the word report and ends with an extension htm(l), a link will appear on the job details page.  Here's the chart generated with the above data:
-<br /><img src="https://raw.githubusercontent.com/electriccommunity/ec-chart-properties/master/out/screenshots/line_chart_property_sheet_graph.png" alt="Graph" width="400px"/>
+<br /><br /><img src="https://raw.githubusercontent.com/electriccommunity/ec-chart-properties/master/out/screenshots/line_chart_property_sheet_graph.png" alt="Graph" width="400px"/>
 
 SOURCES:
 
