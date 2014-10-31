@@ -1,10 +1,10 @@
 OVERVIEW:
 
-The "ChartProperties" ElectricCommander/ElectricFlow plugin provides procedures to quickly chart data stored in properties (starting with one procedure for now).
+The "ChartProperties" ElectricCommander/ElectricFlow plugin provides procedures to quickly chart data stored in properties.
 
 USAGE:
 
-You must first install and promote the plugin. You can then embed calls to charting procedures from a step by clicking on "Plugin > Reporting > ChartProperties" from the "Procedure Details" page.
+You must first install and promote the plugin (available in out/ChartProperties.jar). You can then embed calls to charting procedures from a step by clicking on "Plugin > Reporting > ChartProperties" from the "Procedure Details" page.
 
 Here are the parameters for the "LineChartPropertySheet" step:
 <br /><img src="https://raw.githubusercontent.com/electriccommunity/ec-chart-properties/master/out/screenshots/line_chart_property_sheet_parameters.png" alt="Parameters" width="400px"/>
@@ -24,6 +24,6 @@ AUTHOR:
 Tanay Nagjee, Electric Cloud Solutions Engineer
 tanay@electric-cloud.com
 
-LEGAL:
+DISCLAIMER:
 
-This module is not officially supported by Electric Cloud. It has undergone no formal testing and you may run into issues that have not been uncovered in the limited manual testing done so far. Electric Cloud should not be held liable for any repercussions of using this software.
+This module is not officially supported by Electric Cloud.
